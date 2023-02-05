@@ -22,4 +22,4 @@ print(data)
 `get_all_info` - get all the information about the IP address.\
 `is_hosting` - returns boolean value if the ip belongs to the hosting.\
 `is_proxy` - returns boolean value if the ip belongs to the proxy.\
-`is_mobile` - returns boolean value if the ip belongs to the mobile.\
+`is_mobile` - returns boolean value if the ip belongs to the mobile.
